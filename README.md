@@ -1,8 +1,7 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Data Pegawai]() klik
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
+- Nama  : Wisnu Kusumo Jati
+- NIM   : 18090081
 - Kelas : 6B
 #### Tools
 - Laravel       : Framework PHP
