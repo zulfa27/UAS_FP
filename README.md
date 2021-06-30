@@ -1,8 +1,8 @@
 ### [Aplikasi Perekaman Data Pegawai]() klik
 #### By
-- Nama  : Wisnu Kusumo Jati
-- NIM   : 18090081
-- Kelas : 6B
+- Nama  : Zulfa Rohmawati Mayasari
+- NIM   : 18090053
+- Kelas : 6C
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
