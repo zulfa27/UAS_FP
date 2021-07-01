@@ -15,7 +15,7 @@
 
 
 PENJELASAN CODE : https://drive.google.com/drive/u/0/folders/1A2MY2_MZFzK_qF58nuILkTExbv7vcT2T
-Heroku :
+Heroku : http://uaspegawaifp.herokuapp.com/login
 
 
 
